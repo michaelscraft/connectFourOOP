@@ -177,7 +177,7 @@ class ConnectFour {
   }
 }
 
-/** makeHtmlBoard: make HTML table and row of column tops. */
+// Form
 const modal = document.querySelector('.modal');
 const form = document.querySelector('#gameConfigForm');
 const handleSubmit = (e) => {
